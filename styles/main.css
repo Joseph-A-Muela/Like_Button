@@ -1,0 +1,27 @@
+.likeButton {
+	width: 10em;
+	height: 5em;
+	margin: 10em auto;
+	display: block;
+	border-radius: 5%;
+	border: solid .1em black;
+	background-color: white;
+}
+
+.likeButton:hover {
+	background-color: #3879D9;
+	color: white;
+}
+
+.resetCount {
+	margin: 2em auto;
+	display: block;
+	border: solid .1em black;
+	background-color: white;
+	border-radius: 10%;
+}
+
+.resetCount:hover {
+	background-color: black;
+	color: white;
+}
